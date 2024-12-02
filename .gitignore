@@ -1,0 +1,27 @@
+# Python compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environments
+env/
+venv/
+
+# Django specific files
+db.sqlite3
+*.log
+
+# Static and media files (if not managed in version control)
+staticfiles/
+media/
+
+# Environment files
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+
+# macOS specific files
+.DS_Store
